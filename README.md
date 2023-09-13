@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 Systems Analysis and Development Student, IFPE
-- Software Engineer at TatoDesk
+- 💼 Software Engineer at TatoDesk
 
 <h3>Languages: </h3>
 <ul>
