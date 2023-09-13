@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Systems Analysis and Development Student, IFPE
+- 💻 Systems Analysis and Development Student, IFPE 5/6
 - 💼 Software Engineer at TatoDesk
 
 <h3>Languages: </h3>
