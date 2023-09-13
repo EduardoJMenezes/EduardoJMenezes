@@ -1,4 +1,13 @@
-<h2>Olá, meu nome é Eduardo Menezes! 👋</h2>
+### Hi there 👋
+
+- 💻 Systems Analysis and Development Student, IFPE
+- Software Engineer at TatoDesk
+
+<h3>Languages: </h3>
+<ul>
+  <li>Portuguese (native)</li>
+  <li>English (intermediary)</li>
+</ul>
 
 [![EduardoJMenezes](https://github-readme-stats.vercel.app/api?username=EduardoJMenezes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
